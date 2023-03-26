@@ -16,6 +16,7 @@
         "no-underscore-dangle": "off",
         "no-trailing-spaces": "off",
         "import/no-extraneous-dependencies": "off",
-        "camelcase": "off"
+        "camelcase": "off",
+        "eol-last": "off"
     }
 }
